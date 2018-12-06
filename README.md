@@ -12,8 +12,7 @@ Repository contains the problem solved from open kattis and Programming session 
 * Jetbrains Pycharm 
 
 ## Screenshots 
-![alt text](https://github.com/Sumnimarana1/ProgrammingSession/blob/master/images/picture1.png)
-![alt text](https://github.com/Sumnimarana1/ProgrammingSession/blob/master/images/picture2.png)
+![alt text](https://github.com/Sumnimarana1/ProgrammingSession/blob/master/images/OpenKattis.png)
 
 ## Link to OpenKattis 
 
