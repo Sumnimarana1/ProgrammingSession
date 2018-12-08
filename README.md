@@ -1,5 +1,5 @@
 # ProgrammingSession
-Repository contains the problem solved from open kattis and Programming session books.
+Repository contains the problem solved from open kattis and Programming session book.
 
 ## Programming language 
 * Java
