@@ -16,12 +16,15 @@ public class BoosBAttle {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //scanner to input
         Scanner input = new Scanner(System.in);
+        //takes the value for n
         int n = input.nextInt();
+        //checks for the validity
         if( n <= 2){
-            System.out.println(1);
+            System.out.println(1); //prints 1
         }else{
-            System.out.println(n-2);
+            System.out.println(n-2); //prints  n-2
         }
 	
     }

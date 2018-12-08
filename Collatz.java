@@ -13,8 +13,9 @@ public class Collatz {
 
     public static void main(String[] args)
     {
-        Scanner scan = new Scanner(System.in);
-        while(scan.hasNext())
+        Scanner input = new Scanner(System.in);
+        //while scanner has something to read
+        while(input.hasNext())
         {
             int first = scan.nextInt();
             int second = scan.nextInt();
